@@ -11,7 +11,7 @@ This Python script automates file management tasks in a specific folder on your 
 ## Installation
 1. Clone the repository to your local machine:
    ```bash
-   git clone 
+   git clone https://github.com/profcode-dev/Manage_FIles.git
    cd dubai-hospitals-scraper
 
 2. pip install shutil 
